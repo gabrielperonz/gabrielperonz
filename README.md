@@ -21,12 +21,10 @@
 />
 <source
   srcset="https://github.com/gabrielperonz/github-readme-stats"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielperonz&show_icons=true" />
 </picture>
-
-[![Top Langs]()]()
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
