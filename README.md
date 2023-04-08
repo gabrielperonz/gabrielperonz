@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielperonz&show_icons=true" />
 </picture>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.discordapp.com/attachments/1049172263263539201/1094090758035873822/58480979cef1014c0b5e4901.png">
+  <img align="center" alt="Gabriel-Java" height="40" width="40" src="https://cdn.discordapp.com/attachments/1049172263263539201/1094090758035873822/58480979cef1014c0b5e4901.png">
 </div>
   
 <div> 
