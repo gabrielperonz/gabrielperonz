@@ -15,6 +15,11 @@
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="50" width="50" src="https://cdn.discordapp.com/attachments/1049172263263539201/1094090758035873822/58480979cef1014c0b5e4901.png">
+  
+  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  
 </div>
   
   ##
