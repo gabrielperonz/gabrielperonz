@@ -15,9 +15,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielperonz&show_icons=true" />
 </picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperonz&layout=compact&langs_count=16&theme=dark"/>
-
 <div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperonz&layout=compact&langs_count=16&theme=dark"/>
   <img align="center" alt="Gabriel-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   
 </div>
