@@ -1,7 +1,6 @@
 ## Gabriel Peron Zava
 
 - Estudando Java
-- Cursando Eng. Software 
 
 <div style="display: inline_block"><br>
 <picture>
